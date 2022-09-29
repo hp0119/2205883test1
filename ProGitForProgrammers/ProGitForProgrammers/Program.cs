@@ -28,4 +28,9 @@ namespace ProGitForProgrammers
             return num3;
         }
     }
+
+    public class Calculator
+    {
+
+    }
 }
