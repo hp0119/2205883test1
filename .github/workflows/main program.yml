@@ -7,7 +7,7 @@ on:
     - '**.cs'
     - '**.csproj'
 env:
-  DOTNET_VERSION: '6' # The .NET SDK version to use
+  DOTNET_VERSION: '6.0' # The .NET SDK version to use
 defaults:
   run:
     working-directory: ProGitForProgrammers
