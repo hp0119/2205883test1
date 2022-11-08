@@ -6,14 +6,11 @@ on:
     paths:
     - '**.cs'
     - '**.csproj'
-env:
-  DOTNET_VERSION: '5.0.301' # The .NET SDK version to use
 defaults:
   run:
     working-directory: unit-testing-using-dotnet-test
 jobs:
-  build-and-test:
+  git-log-txt:
     runs-on: windows-latest
     steps:
-    - uses: actions/checkout@v2
     - run: git log --oneline > log.txt
