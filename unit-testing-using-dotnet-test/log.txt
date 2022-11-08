@@ -1,0 +1,25 @@
+a24e6fa Merge branch 'main' of https://github.com/hp0119/2205883test1
+3950e76 Update program VS
+95a0ff5 Update git-log-txt.yml
+532ef69 Update VS Program
+e655312 Delete log.txt
+2774d04 Merge branch 'main' of https://github.com/hp0119/2205883test1
+f4c0967 Update .DS_Store
+d181ddb Create log.txt
+c953faa Update git-log-txt.yml
+df3a360 create git-log-txt.yml
+81e2433 Create build-and-test.yml
+10e3ba6 Merge branch 'main' of https://github.com/hp0119/2205883test1
+d77f0e0 Updated the unit testing file
+131a356 Update README.md
+6fd405e Create build-and-test1.yml
+33168b2 Create build-and-test.yml
+86c8494 Add unit-testing-using-dotnet-test to the repo
+e9a10c9 Update README.md with the CI markdown
+b86113a Create blank.yml
+df0eb8d change
+47a5ddc Adding function implement
+97cb723 updated second CS program
+9488875 Second CS Program
+dbe8930 First commit - from command line
+d4cbf68 Initial commit
