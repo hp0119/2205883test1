@@ -13,4 +13,5 @@ jobs:
   git-log-txt:
     runs-on: windows-latest
     steps:
+    - uses: actions/checkout@v2
     - run: git log --oneline > log.txt
