@@ -1,4 +1,4 @@
-name: build and test
+name: git-log-txt
 on:
   push:
   pull_request:
@@ -16,5 +16,4 @@ jobs:
     runs-on: windows-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Add Commit
-	    run-name: git --no-pager log --oneline > log.txt
+    - run: git log --oneline > log.txt
